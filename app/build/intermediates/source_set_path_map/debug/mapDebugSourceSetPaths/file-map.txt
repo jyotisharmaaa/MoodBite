@@ -1,0 +1,43 @@
+com.moodbite.app-jetified-core-ktx-1.12.0-0 C:\Users\ayush\.gradle\caches\8.13\transforms\0279a2a2b8fd18ef00fcb5101d623408\transformed\jetified-core-ktx-1.12.0\res
+com.moodbite.app-jetified-savedstate-ktx-1.2.1-1 C:\Users\ayush\.gradle\caches\8.13\transforms\1233339388295c96ed470c1fe71f3ed5\transformed\jetified-savedstate-ktx-1.2.1\res
+com.moodbite.app-transition-1.2.0-2 C:\Users\ayush\.gradle\caches\8.13\transforms\1924ceb052a14094d3826d141ebffa39\transformed\transition-1.2.0\res
+com.moodbite.app-appcompat-1.6.1-3 C:\Users\ayush\.gradle\caches\8.13\transforms\2189eaa3386ba208da01e6a898d8602b\transformed\appcompat-1.6.1\res
+com.moodbite.app-jetified-lifecycle-process-2.6.2-4 C:\Users\ayush\.gradle\caches\8.13\transforms\26fab7714f8d8f7f4c36474f089a7b07\transformed\jetified-lifecycle-process-2.6.2\res
+com.moodbite.app-constraintlayout-2.1.4-5 C:\Users\ayush\.gradle\caches\8.13\transforms\302090272ae931057406c3af5a1aef6e\transformed\constraintlayout-2.1.4\res
+com.moodbite.app-jetified-lifecycle-runtime-ktx-2.6.2-6 C:\Users\ayush\.gradle\caches\8.13\transforms\3119faca3049b5bbab0cb48bd9afa078\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.moodbite.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-7 C:\Users\ayush\.gradle\caches\8.13\transforms\46287e07691c8e1bac163739a1f95897\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.moodbite.app-jetified-activity-ktx-1.8.0-8 C:\Users\ayush\.gradle\caches\8.13\transforms\4dda38e738e1f3facf9ed1eabc297a4c\transformed\jetified-activity-ktx-1.8.0\res
+com.moodbite.app-jetified-lottie-6.1.0-9 C:\Users\ayush\.gradle\caches\8.13\transforms\4eadc29dd1194ab06d76c576935a3e6d\transformed\jetified-lottie-6.1.0\res
+com.moodbite.app-jetified-lifecycle-livedata-ktx-2.6.2-10 C:\Users\ayush\.gradle\caches\8.13\transforms\52122ee5238bf72f8624c99cafd43b1e\transformed\jetified-lifecycle-livedata-ktx-2.6.2\res
+com.moodbite.app-jetified-startup-runtime-1.1.1-11 C:\Users\ayush\.gradle\caches\8.13\transforms\5b73780073e6caee5c6fff083750671e\transformed\jetified-startup-runtime-1.1.1\res
+com.moodbite.app-jetified-viewpager2-1.1.0-beta02-12 C:\Users\ayush\.gradle\caches\8.13\transforms\5fce5846cb96e73c48f24cc956244414\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.moodbite.app-lifecycle-livedata-core-2.6.2-13 C:\Users\ayush\.gradle\caches\8.13\transforms\65dc844d40ab4176193a42dc64fd546c\transformed\lifecycle-livedata-core-2.6.2\res
+com.moodbite.app-jetified-profileinstaller-1.3.0-14 C:\Users\ayush\.gradle\caches\8.13\transforms\72082f6ca436d7877d7d057d7cd68ebb\transformed\jetified-profileinstaller-1.3.0\res
+com.moodbite.app-jetified-emoji2-1.2.0-15 C:\Users\ayush\.gradle\caches\8.13\transforms\7ba7efa82e8853bc98577f43219e2cba\transformed\jetified-emoji2-1.2.0\res
+com.moodbite.app-fragment-1.3.6-16 C:\Users\ayush\.gradle\caches\8.13\transforms\800375b3cdcc58e1733c369732dba4cd\transformed\fragment-1.3.6\res
+com.moodbite.app-jetified-customview-poolingcontainer-1.0.0-17 C:\Users\ayush\.gradle\caches\8.13\transforms\89628c45ce0196ea8124adb3e3c6c482\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.moodbite.app-material-1.10.0-18 C:\Users\ayush\.gradle\caches\8.13\transforms\897584441709f32d7bb880322b10dff2\transformed\material-1.10.0\res
+com.moodbite.app-jetified-emoji2-views-helper-1.2.0-19 C:\Users\ayush\.gradle\caches\8.13\transforms\904d5199e66ab8161506a889831dc950\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.moodbite.app-core-runtime-2.2.0-20 C:\Users\ayush\.gradle\caches\8.13\transforms\940a66d0fc136609c5f927647dbbc5d3\transformed\core-runtime-2.2.0\res
+com.moodbite.app-coordinatorlayout-1.1.0-21 C:\Users\ayush\.gradle\caches\8.13\transforms\9d2f9b21e4fa450e049da823f7e0e5b8\transformed\coordinatorlayout-1.1.0\res
+com.moodbite.app-drawerlayout-1.1.1-22 C:\Users\ayush\.gradle\caches\8.13\transforms\9d7c78dad52fcc6f758c0c275ef3af16\transformed\drawerlayout-1.1.1\res
+com.moodbite.app-lifecycle-runtime-2.6.2-23 C:\Users\ayush\.gradle\caches\8.13\transforms\aaaadc87731143500d75d34e753c2abd\transformed\lifecycle-runtime-2.6.2\res
+com.moodbite.app-jetified-lifecycle-livedata-core-ktx-2.6.2-24 C:\Users\ayush\.gradle\caches\8.13\transforms\ab241cf3e03f75eb9c21e1294ed52a1f\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\res
+com.moodbite.app-cardview-1.0.0-25 C:\Users\ayush\.gradle\caches\8.13\transforms\b1e8de2c6399c37af4debda0ffe20c20\transformed\cardview-1.0.0\res
+com.moodbite.app-recyclerview-1.3.2-26 C:\Users\ayush\.gradle\caches\8.13\transforms\b55db506b4ba8f90656972173fe86d09\transformed\recyclerview-1.3.2\res
+com.moodbite.app-lifecycle-livedata-2.6.2-27 C:\Users\ayush\.gradle\caches\8.13\transforms\ba1939b602a6c6202505a4975474678e\transformed\lifecycle-livedata-2.6.2\res
+com.moodbite.app-jetified-annotation-experimental-1.3.0-28 C:\Users\ayush\.gradle\caches\8.13\transforms\c1f69182e95b8b33c6e9f905baf2afe8\transformed\jetified-annotation-experimental-1.3.0\res
+com.moodbite.app-jetified-savedstate-1.2.1-29 C:\Users\ayush\.gradle\caches\8.13\transforms\cf13bf4ee8b26e09dd1477454553d233\transformed\jetified-savedstate-1.2.1\res
+com.moodbite.app-lifecycle-viewmodel-2.6.2-30 C:\Users\ayush\.gradle\caches\8.13\transforms\defd617636df248a233374198aab76c4\transformed\lifecycle-viewmodel-2.6.2\res
+com.moodbite.app-jetified-activity-1.8.0-31 C:\Users\ayush\.gradle\caches\8.13\transforms\e2be5cfeeec4003efd57a831830c1508\transformed\jetified-activity-1.8.0\res
+com.moodbite.app-jetified-lifecycle-viewmodel-ktx-2.6.2-32 C:\Users\ayush\.gradle\caches\8.13\transforms\ea09b807b75bc7be68a957f5466bdbc6\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.moodbite.app-jetified-appcompat-resources-1.6.1-33 C:\Users\ayush\.gradle\caches\8.13\transforms\f30b973d278c002e8a007d06625f46d7\transformed\jetified-appcompat-resources-1.6.1\res
+com.moodbite.app-core-1.12.0-34 C:\Users\ayush\.gradle\caches\8.13\transforms\fec989fa26f3421bac7a449948eaa348\transformed\core-1.12.0\res
+com.moodbite.app-pngs-35 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\generated\res\pngs\debug
+com.moodbite.app-resValues-36 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\generated\res\resValues\debug
+com.moodbite.app-updated_navigation_xml-37 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\generated\updated_navigation_xml\debug
+com.moodbite.app-packageDebugResources-38 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.moodbite.app-packageDebugResources-39 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.moodbite.app-debug-40 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.moodbite.app-debug-41 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\src\debug\res
+com.moodbite.app-main-42 C:\Users\ayush\OneDrive\Documents\AI Hackathon MoodBite\MoodBite_Complete\MoodBite\app\src\main\res

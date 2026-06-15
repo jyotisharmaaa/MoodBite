@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_blue">#60A5FA</color>
+    <color name="accent_green">#34D399</color>
+    <color name="accent_purple">#A78BFA</color>
+    <color name="accent_red">#FF6B6B</color>
+    <color name="accent_yellow">#FFD93D</color>
+    <color name="bg_dark">#0F1117</color>
+    <color name="black">#000000</color>
+    <color name="card_bg">#1E2130</color>
+    <color name="card_bg_light">#252836</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_hint">#44556677</color>
+    <color name="text_secondary">#8892A4</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="analyzing">Analyzing your mood…</string>
+    <string name="app_name">MoodBite</string>
+    <string name="get_food_plan">Get My Food Plan</string>
+    <string name="how_feeling">How are you feeling today?</string>
+    <string name="tagline">Eat for how you feel</string>
+    <style name="Theme.MoodBite" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/bg_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/accent_yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSurface">@color/card_bg</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="android:colorBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.MoodBite.Splash" parent="Theme.MoodBite">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>

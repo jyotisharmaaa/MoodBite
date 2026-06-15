@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_in_left.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/drawable_emoji_bg.xml.flat",
+        "source": "com.moodbite.app-main-41:/drawable/emoji_bg.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_pulse.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/pulse.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_out_left.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/drawable_calorie_badge.xml.flat",
+        "source": "com.moodbite.app-main-41:/drawable/calorie_badge.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_out_right.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_fade_in.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_activity_splash.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_item_mood_card.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/item_mood_card.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_bounce_in.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/bounce_in.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_down.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/drawable_category_badge.xml.flat",
+        "source": "com.moodbite.app-main-41:/drawable/category_badge.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_item_food_card.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/item_food_card.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_activity_diet_plan.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/activity_diet_plan.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_in_right.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/anim_slide_up.xml.flat",
+        "source": "com.moodbite.app-main-41:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.moodbite.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.moodbite.app-debug-39:/layout_activity_mood_result.xml.flat",
+        "source": "com.moodbite.app-main-41:/layout/activity_mood_result.xml"
+    }
+]

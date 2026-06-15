@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoodBite</string>
+    <string name="tagline">Eat for how you feel</string>
+    <string name="how_feeling">How are you feeling today?</string>
+    <string name="get_food_plan">Get My Food Plan</string>
+    <string name="analyzing">Analyzing your mood…</string>
+</resources>
