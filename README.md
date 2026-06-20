@@ -147,6 +147,25 @@ We need an AI system that:
 | **Combined (All 3)** | **95%+** | Multi-modal fusion algorithm |
 
 ---
+## Screen Shots
+
+<img width="180" height="320" alt="Screenshot_20260620_131726" src="https://github.com/user-attachments/assets/b5c108a6-488d-48f6-9a3e-76d8f5dedf35" />
+<img width="180" height="320" alt="Screenshot_20260620_190359" src="https://github.com/user-attachments/assets/f7498abe-c7e1-4859-a82f-3a62104a114b" />
+<img width="180" height="320" alt="Screenshot_20260620_131817" src="https://github.com/user-attachments/assets/f53bd4a0-34ea-44db-a7f5-34f9677b3cf8" />
+<img width="180" height="320" alt="Screenshot_20260620_131829" src="https://github.com/user-attachments/assets/ede8384c-0feb-443b-95de-2a1db9769f7e" />
+<img width="180" height="320" alt="Screenshot_20260620_131939" src="https://github.com/user-attachments/assets/4687fa87-eade-470d-b262-220cafc9f254" />
+<img width="180" height="320" alt="Screenshot_20260620_132021" src="https://github.com/user-attachments/assets/d31fc788-e6b6-46d6-b4aa-cdcec48a6d0c" />
+<img width="180" height="320" alt="Screenshot_20260620_132233" src="https://github.com/user-attachments/assets/2d1e27e1-6c0f-44ce-bf95-72f21b6f3a87" />
+<img width="180" height="320" alt="Screenshot_20260620_132216" src="https://github.com/user-attachments/assets/2040aaf4-6ee5-48d7-bda6-de42aaab4515" />
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Getting Started
 
