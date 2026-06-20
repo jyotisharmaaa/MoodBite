@@ -17,19 +17,19 @@ No guessing. No generic recommendations. Just AI-powered insights that actually 
 
 ### ✨ Key Features
 
-- 🎙️ **Voice-Based Mood Detection** (85-92% accurate)
+- 🎙️ **Voice-Based Mood Detection** 
   Real speech-to-text transcription
   Speech rate, pitch, stress analysis
   Emotional sentiment detection
   
-- 📷 **Face Detection** (80-85% accurate)
+- 📷 **Face Detection** 
   Smile, eye, and head position analysis
   Real-time confidence scoring
   
-- 📱 **Manual Selection** (60-70% accurate)
+- 📱 **Manual Selection**
   Quick mood selection interface
   
-- 🧠 **Multi-Modal Fusion** (95%+ accurate)
+- 🧠 **Multi-Modal Fusion** )
   Combines face + voice + manual for maximum accuracy
   
 - 🍽️ **Neuroscience-Backed Food Recommendations**
@@ -77,12 +77,12 @@ We need an AI system that:
 ├─────────────────────────────────────────────┤
 │                                             │
 │  Manual Selection      Face Detection       │
-│  (60-70% accurate)     (80-85% accurate)   │
+│  )       │
 │       ↓                      ↓             │
 │       └──────────┬───────────┘             │
 │                  ↓                         │
 │         Voice Analysis                     │
-│      (85-92% accurate)                    │
+│                         │
 │         ├─ Speech Rate Analysis            │
 │         ├─ Pitch Variance Measurement      │
 │         ├─ Stress Detection                │
@@ -90,9 +90,9 @@ We need an AI system that:
 │         └─ Sentiment Analysis              │
 │                  ↓                         │
 │      Multi-Modal Fusion Algorithm          │
-│      (weights: Voice 50% + Sentiment 50%)  │
+│      │
 │                  ↓                         │
-│  FINAL MOOD DETECTION: 95%+ Accurate       │
+│        FINAL MOOD DETECTION                │
 │                                             │
 └─────────────────────────────────────────────┘
           ↓
@@ -141,10 +141,10 @@ We need an AI system that:
 
 | Detection Method | Accuracy | How It Works |
 |-----------------|----------|-------------|
-| **Manual Selection** | 60-70% | User taps mood (unreliable) |
-| **Face Detection** | 80-85% | ML Kit analyzes expressions |
-| **Voice Analysis** | 85-92% | Speech rate, pitch, stress + sentiment |
-| **Combined (All 3)** | **95%+** | Multi-modal fusion algorithm |
+| **Manual Selection** | User taps mood (unreliable) |
+| **Face Detection** | ML Kit analyzes expressions |
+| **Voice Analysis** | Speech rate, pitch, stress + sentiment |
+| **Combined (All 3)** | Multi-modal fusion algorithm |
 
 ---
 ## Screen Shots
@@ -157,15 +157,6 @@ We need an AI system that:
 <img width="180" height="320" alt="Screenshot_20260620_132021" src="https://github.com/user-attachments/assets/d31fc788-e6b6-46d6-b4aa-cdcec48a6d0c" />
 <img width="180" height="320" alt="Screenshot_20260620_132233" src="https://github.com/user-attachments/assets/2d1e27e1-6c0f-44ce-bf95-72f21b6f3a87" />
 <img width="180" height="320" alt="Screenshot_20260620_132216" src="https://github.com/user-attachments/assets/2040aaf4-6ee5-48d7-bda6-de42aaab4515" />
-
-
-
-
-
-
-
-
-
 
 ## 🚀 Getting Started
 
@@ -367,7 +358,7 @@ Verify recommendations shown
 
 # Test 4: Combined Accuracy
 Test all three methods for same emotional state
-Verify combined accuracy > 95%
+Verify combined accuracy
 ```
 
 ### Debug Logging
@@ -431,7 +422,7 @@ fun fuseMoodDetection(
     voiceMood: Pair<MoodType, Float>?    // 50% weight
 ): Pair<MoodType, Float> {
     // Weighted combination of all three methods
-    // Result: Most accurate mood detection (95%+)
+    // Result: Most accurate mood detection 
 }
 ```
 
@@ -441,7 +432,7 @@ fun fuseMoodDetection(
 
 | Metric | Value |
 |--------|-------|
-| **Mood Detection Accuracy** | 95%+ |
+| **Mood Detection Accuracy** |
 | **Voice Analysis Speed** | <500ms |
 | **Camera Detection Speed** | <300ms |
 | **Memory Usage** | ~150MB |
