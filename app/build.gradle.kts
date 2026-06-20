@@ -79,6 +79,7 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended")
     implementation("io.agora.rtc:full-sdk:4.2.6")
     implementation("com.google.mlkit:translate:17.0.2")
+    implementation("com.google.mlkit:language-id:16.0.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
     implementation("com.google.code.gson:gson:2.10.1")
 
