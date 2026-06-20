@@ -139,12 +139,12 @@ We need an AI system that:
 
 ## 📊 Accuracy Comparison
 
-| Detection Method | Accuracy | How It Works |
-|-----------------|----------|-------------|
-| **Manual Selection** | User taps mood (unreliable) |
-| **Face Detection** | ML Kit analyzes expressions |
-| **Voice Analysis** | Speech rate, pitch, stress + sentiment |
-| **Combined (All 3)** | Multi-modal fusion algorithm |
+| Detection Method | Accuracy 
+|-----------------|----------|
+| **Manual Selection** | User taps mood (unreliable) 
+| **Face Detection** | ML Kit analyzes expressions 
+| **Voice Analysis** | Speech rate, pitch, stress + sentiment 
+| **Combined (All 3)** | Multi-modal fusion algorithm 
 
 ---
 ## Screen Shots
